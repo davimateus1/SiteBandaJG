@@ -1,0 +1,19 @@
+#banda{
+    padding: 30px;
+}
+
+#desc{
+    padding: 20px;
+}
+
+#shows{
+    border-radius: 10px;
+}
+
+*{
+    scroll-behavior: smooth;
+}
+h1,h2,h3,h4,h5,h6,h7{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 600;
+}
