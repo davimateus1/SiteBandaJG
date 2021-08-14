@@ -22,7 +22,7 @@ Esse site foi desenvolvido por mim no curso de Frontend Development promovido pe
 
 ## 🚀 Protótipo
 
-Você pode testar e usar o Letme Ask Gaming através [desse link](https://site-banda-jg.vercel.app).
+Você pode testar e usar o site do João Gomes através [desse link](https://site-banda-jg.vercel.app).
 
 ---
 
