@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse site foi desenvolvido por mim no curso de Frontend Development promovido pela Estação Hack From Facebook, consiste em um Site de uma banda e a banda escolhida por mim foi a banda João Gomes.
+Esse site foi desenvolvido por mim no curso de Frontend Development promovido pela Estação Hack From Facebook, consiste em um Site de uma banda e a banda escolhida por mim foi a do João Gomes.
 
 ## 🚀 Protótipo
 
