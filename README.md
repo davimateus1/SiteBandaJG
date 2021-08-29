@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse site foi desenvolvido por mim no curso de Frontend Development promovido pela Estação Hack From Facebook, consiste em um Site de uma banda e a banda escolhida por mim foi a do João Gomes.
 
-## 🚀 Protótipo
+## 🚀 Deploy
 
 Você pode testar e usar o site do João Gomes através [desse link](https://site-banda-jg.vercel.app).
 
