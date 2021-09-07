@@ -1,11 +1,12 @@
-<h1 align="center">
+<div align="center">
   <img alt="move.it" title="move.it" src="https://user-images.githubusercontent.com/66326378/129458637-fd17ed99-225f-4d25-871b-4fa402ce11e2.png" height=140px weight=140px />
-</h1>
-
-<p align="center">
+  <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+</div>
+
+<br><br>
 
 ## ✨ Tecnologias
 
@@ -16,13 +17,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Bootstrap](https://getbootstrap.com)
 
+<br><br>
+
 ## 💻 Projeto
 
 Esse site foi desenvolvido por mim no curso de Frontend Development promovido pela Estação Hack From Facebook, consiste em um Site de uma banda e a banda escolhida por mim foi a do João Gomes.
 
+<br><br>
+
 ## 🚀 Deploy
 
 Você pode testar e usar o site do João Gomes através [desse link](https://site-banda-jg.vercel.app).
+
+<br><br>
 
 ---
 
